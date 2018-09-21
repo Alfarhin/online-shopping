@@ -16,6 +16,14 @@
 
 	<dependencies>
 
+		<!-- Link backend project -->
+		<dependency>
+			<groupId>net.alf</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
 		<!-- JAVA EE API -->
 
 		<dependency>
